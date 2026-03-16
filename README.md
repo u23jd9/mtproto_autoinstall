@@ -42,12 +42,12 @@
 ### Установка одной командой
 
 ```bash
-sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/ВАШ_АККАУНТ/mtproxy-installer/main/install.sh)"
+sudo bash -c "$(curl -fsSL https://raw.githubusercontent.com/u23jd9/mtproto_autoinstall/refs/heads/main/install.sh)"
 ```
 
 Или через wget:
 ```bash
-sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/ВАШ_АККАУНТ/mtproxy-installer/main/install.sh)"
+sudo bash -c "$(wget -qO- https://raw.githubusercontent.com/u23jd9/mtproto_autoinstall/refs/heads/main/install.sh)"
 ```
 
 ### Минимальные требования
